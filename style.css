@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    width: 5.85rem;
+    height: 4 rem;
+    margin-right: 2rem;
+    /* height: 10rem; */
+    
+}
+
+header ul li a{
+    font-size: 1.20rem;
+    margin-left: 0.5rem ;
+    margin-right: 0.5rem;
+    color: #7f7f7f;
+    font-weight:600;
+}
